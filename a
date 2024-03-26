@@ -1,0 +1,10 @@
+user.name=woohyuk
+user.email=psj4415@naver.com
+safe.directory=C:/Users/Code/Desktop/sparta/codeKata
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+core.editor="C:\Users\Code\AppData\Local\Programs\Microsoft VS Code\bin\code" --wait
+i18n.commitencoding=UTF-8
+i18n.logoutputencoding=UTF-8
